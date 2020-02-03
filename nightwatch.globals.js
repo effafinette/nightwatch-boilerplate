@@ -15,7 +15,7 @@ module.exports = {
     waitForConditionPollInterval: 300,
 
     // Timeout duration
-    waitForConditionTimeout: 1000,
+    waitForConditionTimeout: 5000,
 
     /*
      * Define if the test failed when many HTML elements are found when
